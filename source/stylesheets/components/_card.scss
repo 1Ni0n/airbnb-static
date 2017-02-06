@@ -6,7 +6,7 @@
     position: relative;
     border-radius: 5px;
     margin-bottom: 20px;
-    filter: greyscale(50%);
+    filter: grayscale(100%);
 }
 
 .card-link {
@@ -40,5 +40,5 @@
 
 
 .card:hover{
-
+  filter: none;
 }
