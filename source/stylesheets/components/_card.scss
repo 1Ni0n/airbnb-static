@@ -6,6 +6,7 @@
     position: relative;
     border-radius: 5px;
     margin-bottom: 20px;
+    filter: greyscale(50%);
 }
 
 .card-link {
@@ -35,4 +36,9 @@
     top: 10px;
     left: 10px;
     font-size: 20px;
+}
+
+
+.card:hover{
+
 }
